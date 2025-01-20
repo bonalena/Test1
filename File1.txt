@@ -1,4 +1,4 @@
-local change
+local change update
 remote change
 test change
 456
